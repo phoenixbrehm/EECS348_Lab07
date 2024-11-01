@@ -1,3 +1,10 @@
+/*
+Phoenix Brehm
+EECS 348
+Th 11AM
+Lab07
+Goal: to take an input file about square matrices and then perform operations using a matrix class, to print the matrix, overload adding and multiplication operators, swapping two rows and getting the sum of the diagonal of a matrix.
+*/
 #include <fstream>
 #include <iostream>
 
